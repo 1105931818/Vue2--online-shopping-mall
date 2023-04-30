@@ -1,0 +1,39 @@
+[
+    {
+        "id":"0001",
+        "userAddress":"上海市浦东新区航头镇",
+        "useId":2,
+        "provinceId":23,
+        "consignee":"张三",
+        "consigneeTel":"13412341234",
+        "isDefault":1
+    },
+    {
+        "id":"0002",
+        "userAddress":"上海市徐汇区徐家汇",
+        "useId":2,
+        "provinceId":24,
+        "consignee":"李四",
+        "consigneeTel":"18712341234",
+        "isDefault":0
+    },
+    {
+        "id":"0003",
+        "userAddress":"江西省南昌市枫林大道",
+        "useId":2,
+        "provinceId":25,
+        "consignee":"王五",
+        "consigneeTel":"17612341234",
+        "isDefault":0
+    },
+    {
+        "id":"0004",
+        "userAddress":"江西省南昌市红谷滩",
+        "useId":2,
+        "provinceId":26,
+        "consignee":"赵六",
+        "consigneeTel":"18112341234",
+        "isDefault":0
+    }
+
+]
